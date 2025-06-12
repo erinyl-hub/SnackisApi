@@ -1,0 +1,6 @@
+@SnackisApi_HostAddress = http://localhost:5172
+
+GET {{SnackisApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
